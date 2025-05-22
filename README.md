@@ -55,5 +55,3 @@ A simple backend API for a quiz engine using Node.js (Express) and MongoDB.
 - `POST /api/results/submit` — Submit quiz answers
 - `GET /api/results/history` — Get quiz history
 
-## License
-MIT
